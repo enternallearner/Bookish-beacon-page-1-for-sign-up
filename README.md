@@ -39,6 +39,8 @@ Contributions are welcome! If you have suggestions or want to improve the code, 
 
 This project is open-sourced under the MIT License. See the LICENSE file for more details.
 
+deployed link: https://665c1a60288c9ea27a4b20e4--jolly-kitsune-33bcae.netlify.app/
+
 ---
 
 Bookish Beacon © 2024. All Rights Reserved.
